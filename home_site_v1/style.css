@@ -2,6 +2,10 @@
     margin-left: auto;
 } */
 
-.nav-link {
+#devColor {
     color: aquamarine;   
+}
+
+section>div>img {
+    padding-left: auto;
 }
