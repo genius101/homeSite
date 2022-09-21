@@ -1,3 +1,7 @@
-.navbar-nav {
+/* .navbar-nav {
     margin-left: auto;
+} */
+
+.nav-link {
+    color: aquamarine;   
 }
